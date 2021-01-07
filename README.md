@@ -1,4 +1,4 @@
-# Captcha with Random class.
+# Captcha with Random Class.
 
 
 
